@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+.intro{
+    background-color: azure;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+marquee{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align : center;
+    background-color: brown;
+}
+img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: 10px auto;
+}
